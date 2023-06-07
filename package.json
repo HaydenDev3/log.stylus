@@ -11,6 +11,13 @@
   ],
   "main": "index.js",
   "author": "ItsHayden#0001",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
   "license": "MIT",
   "dependencies": {
     "@types/node": "^20.2.5",
