@@ -1,7 +1,8 @@
 {
   "name": "log.stylus",
-  "version": "1.4.3",
-  "description": "Easily style up the way you log things inside your console.",
+  "version": "1.6.2",
+  "description": "Easily style up the way you log things inside your console with a single function.",
+  "types": "./types/main.d.ts",
   "keywords": [
     "log",
     "console log",
@@ -9,6 +10,7 @@
     "hayden"
   ],
   "main": "index.js",
+  "author": "ItsHayden#0001",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^20.2.5",
